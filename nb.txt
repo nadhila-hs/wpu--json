@@ -1,0 +1,5 @@
+// php
+// - json_encode() untuk ubah object atau array php menjadi json
+// - json_decode() untuk ubah json menjadi object atau array php
+
+// - file_get_contents() untuk ngambil json dari tempat lain
